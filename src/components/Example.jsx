@@ -47,12 +47,11 @@ export default function Example1() {
             sm: 'none',
             xs: 'none',
           },
-          width: 373,
           width: {
             xxl: 373,
             xl: 250,
             lg: 0,
-            md: -100,
+            md: 0,
             sm: 0,
           },     
         }}
